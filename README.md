@@ -1,4 +1,3 @@
-# principatrepositorium
 Use the command to install dependencies "pip install -r requirements.txt" or "pip3 install -r requirements.txt".
 
 Hello. This my mini OSINT framework. It includes the following functions:
